@@ -1,5 +1,7 @@
 # Student-Database-CRUD-using-Java-RMI
 
+It's a simple RMI Application which performs CRUD(create, read, update and delete) operations.
+
 ## What is RMI ?
 
 RMI stands for Remote Method Invocation. It is a mechanism that allows to access on object running on a certain JVM from another different JVM. Using RMI we can build distributed applications.
